@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercício 01</string>
+    <string name="numMeses">Número de Meses</string>
+    <string name="taxaJuros">Taxa de Juros Mensal</string>
+    <string name="capitalAtual">Capital atual</string>
+    <string name="calcular">Calcular</string>
+</resources>
